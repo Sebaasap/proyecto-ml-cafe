@@ -56,16 +56,6 @@ Si prefieres correrlo de forma interactiva sin descargar nada, abre el notebook 
 
 
 
----
 
-## Ejecutar en tu computador
 
-1. Asegúrate de tener **Python 3.10 o superior**.  
-2. Abre una terminal (CMD, PowerShell o Terminal de Mac/Linux).  
-3. Crea un entorno virtual e instala las librerías:
-   ```bash
-   python -m venv .venv
-   .venv\Scripts\activate   # En Windows
-   # source .venv/bin/activate   # En Mac/Linux
-
-   pip install -r requirements.txt
+python proyectofinal.py
