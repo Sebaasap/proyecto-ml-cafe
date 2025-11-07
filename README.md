@@ -14,7 +14,7 @@ Se incluyen:
 
 1. Descargue este repositorio con el botón verde **Code → Download ZIP**.  
 2. Descomprima el archivo ZIP en su computador.  
-3. Abra el archivo `proyecofinal.py` en su entorno de Python (VSCode, Jupyter, Colab o Anaconda).  
+3. Abra el archivo `proyectofinal.py` en su entorno de Python (VSCode, Jupyter, Colab o Anaconda).  
 4. Ejecute el código para:
    - Entrenar los modelos de predicción.
    - Visualizar los gráficos interactivos.
@@ -54,7 +54,15 @@ Si prefieres correrlo de forma interactiva sin descargar nada, abre el notebook 
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sebaasap/proyecto-ml-cafe/blob/main/proyectofinal.ipynb)
 
+## Ejecutar desde el Símbolo del Sistema (Windows)
 
+Si desea correr el proyecto localmente en su computador con Windows:
+
+1. Asegúrese de tener **Python 3.10 o superior** instalado.  
+2. Descargue y descomprima este proyecto.  
+3. Abra el **Símbolo del sistema (CMD)** y navegue a la carpeta del proyecto:
+   ```bash
+   cd Downloads\proyecto-ml-cafe-main
 
 
 
