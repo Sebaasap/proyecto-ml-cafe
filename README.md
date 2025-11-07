@@ -1,4 +1,4 @@
-# Análisis y Predicción del Precio del Café (2023–2025)
+# Análisis y Predicción del Precio del Café (2025)
 
 Este proyecto en **Python** descarga precios reales del **futuro del café (KC=F)** desde **Yahoo Finance**, y aplica **modelos de Machine Learning** para analizar su comportamiento y predecir la tendencia de precios.
 
