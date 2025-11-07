@@ -52,7 +52,7 @@ El programa realiza los siguientes pasos:
 
 Si prefieres correrlo de forma interactiva sin descargar nada, abre el notebook en Colab con este botón:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sebaasap/proyecto-ml-cafe/blob/main/proyecofinal.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sebaasap/proyecto-ml-cafe/blob/main/proyectofinal.ipynb)
 
 
 
