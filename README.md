@@ -26,8 +26,8 @@ Se incluyen:
 
 | Archivo | Descripción |
 |----------|--------------|
-| `proyecofinal.py` | Código principal del proyecto (modelos, gráficos y comentarios). |
-| `proyecofinal.ipynb` | Versión interactiva para Google Colab. |
+| `proyectofinal.py` | Código principal del proyecto (modelos, gráficos y comentarios). |
+| `proyectofinal.ipynb` | Versión interactiva para Google Colab. |
 | `requirements.txt` | Librerías necesarias para ejecutar el proyecto. |
 
 ---
