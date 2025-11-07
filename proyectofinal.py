@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ylo8cFKZj97RrET65FampB9bBPsgzugX
 """
 
-!pip install plotly yfinance  # Instala las librerías necesarias (solo la primera vez)
-
 # PROYECTO DE MACHINE LEARNING: PRECIO DEL CAFÉ
 
 
